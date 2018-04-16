@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/duminda/projects/test_projects/spring-boot-test/src'
+let g:netrw_dirhist_2='/home/duminda/projects/test_projects/spring-boot-test'
+let g:netrw_dirhist_3='/home/duminda/projects/test_projects'
+let g:netrw_dirhist_4='/home/duminda/projects'
+let g:netrw_dirhist_5='/home/duminda/projects/some-other-project'
+let g:netrw_dirhist_6='/home/duminda/projects/test_projects/spring-boot-test/src/main/java/hello'
+let g:netrw_dirhist_7='/home/duminda/projects/test_projects/spring-boot-test/src/main/java'
+let g:netrw_dirhist_8='/home/duminda/projects/test_projects/spring-boot-test/src/main/java/hello'
